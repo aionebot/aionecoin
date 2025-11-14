@@ -1,1 +1,17 @@
+{
+  "name": "Aione Coin",
+  "symbol": "AIONE",
+  "description": "AIONE is the native token of the Aione ecosystem, bridging AI, privacy, and Web3 payments. It powers subscriptions, rewards, and internal transactions across all Aione products.",
+  "image": "https://raw.githubusercontent.com/aionebot/aionecoin/main/metadata/aic.png",
+  "external_url": "https://aione.my",
+  "properties": {
+    "category": "utility_token",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/aionebot/aionecoin/main/metadata/aic.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
 
